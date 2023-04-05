@@ -1,0 +1,9 @@
+:root{
+    --yellow:#ffea00;
+    --dark_grey:#414146;
+    --light_grey:#f6f6f6;
+    }
+    
+    html{
+      scroll-behavior: smooth;
+    }
